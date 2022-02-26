@@ -1,4 +1,4 @@
-# Raspeberry pi for kid
+# Raspberry pi for kid
 
 ## inspiration
 https://www.instructables.com/Make-Raspberry-Pi-a-Multi-User-Desktop/
