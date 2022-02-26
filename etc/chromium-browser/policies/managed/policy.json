@@ -1,0 +1,13 @@
+{
+	"HomepageLocation": "wikipedia.org",
+	"AllowDinosaurEasterEgg": false,
+	"URLBlacklist": ["*"],
+	"URLWhitelist": [
+    "wikipedia.org",
+		"fr.wikibooks.org",
+		"python.org",
+		"ankiweb.net",
+		"file:*",
+		"view-source:*"
+  ]
+}
