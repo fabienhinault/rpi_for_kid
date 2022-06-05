@@ -1,8 +1,8 @@
 {
 	"HomepageLocation": "wikipedia.org",
 	"AllowDinosaurEasterEgg": false,
-	"URLBlacklist": ["*"],
-	"URLWhitelist": [
+	"URLBlocklist": ["*"],
+	"URLAllowlist": [
     "wikipedia.org",
 		"fr.wikibooks.org",
 		"python.org",
