@@ -4,13 +4,13 @@
 	"URLBlocklist": ["*"],
 	"URLAllowlist": [
     "wikipedia.org",
-    "fr.wikibooks.org",
+    "wikibooks.org",
     "python.org",
     "ankiweb.net",
     "file:*",
     "view-source:*",
-    "www.radiofrance.fr",
-    "www.toutatice.fr",
+    "radiofrance.fr",
+    "toutatice.fr",
     "gouv.fr"
   ]
 }
