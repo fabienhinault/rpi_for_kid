@@ -9,6 +9,8 @@
     "ankiweb.net",
     "file:*",
     "view-source:*",
-    "www.radiofrance.fr/"
+    "www.radiofrance.fr",
+    "www.toutatice.fr",
+    "gouv.fr"
   ]
 }
