@@ -24,5 +24,7 @@ passwd ${KID}99
 cp -a /etc/lidghtdm/lightdm.conf /etc/lidghtdm/lightdm.conf~origin
 
 sed -i "s/\(^autologin-user=.*$\)/#>>>\n# https:\/\/github.com\/fabienhinault\/rpi_for_kid\n# \1\nautologin-user=${KID}99\n#<<</" /etc/lightdm/lightdm.conf
+sed -i "s/User_Alias      KID =/\1 ${KID}99/" ./etc/sudoers.d/kid
+
 
 cp -r ./etc /etc
