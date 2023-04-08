@@ -1,2 +1,2 @@
-User_Alias      PLEBEIANS = alexis, alexis2, alexis3, alexis4
-PLEBEIANS    ALL = NOPASSWD: /sbin/reboot, /sbin/shutdown, /bin/date
+User_Alias      KID =
+KID    ALL = NOPASSWD: /sbin/reboot, /sbin/shutdown, /bin/date
