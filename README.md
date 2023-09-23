@@ -8,3 +8,10 @@ https://www.instructables.com/Give-User-Shutdown-and-Reboot-Privileges-in-Raspbe
 https://chromeenterprise.google/policies/?policy=URLBlacklist
 
 https://github.com/parfenovds/AnkiOnRaspbian
+
+## howto
+
+clone the repository
+
+run setup.bash as root
+
